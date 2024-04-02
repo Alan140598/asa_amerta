@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "pertanyaan": "Apa itu UKM di kampus?",
+    "penjelasan": "Unit Kegiatan Mahasiswa (UKM) adalah organisasi atau kelompok kegiatan yang dijalankan oleh mahasiswa di kampus. Mereka mencakup berbagai minat dan bakat, seperti olahraga, seni, akademis, sosial, dan kemanusiaan."
+  },
+  {
+    "index": 2,
+    "pertanyaan": "Mengapa harus memilih UKM yang sesuai dengan minat dan bakat saya?",
+    "penjelasan": "Bergabung dengan UKM yang sesuai dengan minat dan bakat Anda dapat meningkatkan pengalaman kampus Anda, membantu Anda mengembangkan keterampilan yang relevan, dan memperluas jaringan sosial Anda"
+  },
+  {
+    "index": 3,
+    "pertanyaan": "Bagaimana cara mengetahui minat dan bakat  untuk memilih UKM yang tepat?",
+    "penjelasan": "Mulailah dengan merenungkan kegiatan atau topik yang membuat Anda antusias. Pertimbangkan minat Anda, hobi, dan kegiatan yang pernah Anda nikmati di masa lalu."
+  },
+  {
+    "index": 4,
+    "pertanyaan": "Bagaimana cara memilih UKM yang sesuai dengan minat dan bakat saya?",
+    "penjelasan": "Telusuri berbagai UKM yang tersedia di kampus Anda. Hadiri pertemuan atau acara pengenalan UKM, tanyakan kepada anggota yang sudah bergabung, dan cari informasi lebih lanjut tentang UKM tersebut"
+  },
+  {
+    "index": 5,
+    "pertanyaan": "Apa manfaat bergabung dengan UKM?",
+    "penjelasan": "Bergabung dengan UKM dapat membantu Anda mengembangkan keterampilan, menemukan passion baru, memperluas jaringan sosial, dan menciptakan pengalaman yang berharga di luar ruang kelas."
+  }
+]
