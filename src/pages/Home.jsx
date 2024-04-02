@@ -32,7 +32,7 @@ const navigate = useNavigate()
         className="flex flex-col justify-center items-start lg:pl-[135px] lg:w-1/2 h-full lg:gap-5"
       >
         <h1 className="text-blue-500 lg:text-7xl font-bold">
-          Tentukan UKM ANDA!
+          Tentukan UKM Anda!
         </h1>
         <p className="text-xl">
           Asa Amerta adalah cara terbaik dalam menentukan dan memilih UKM.
@@ -44,7 +44,7 @@ const navigate = useNavigate()
             onClick={() => console.log("Log In")}
             className=" bg-blue-500 text-white lg:px-4 lg:py-1 lg:rounded-lg"
           >
-            Log In <MdLogin />
+            Masuk <MdLogin />
           </Button>
         </div>
       </div>
@@ -93,7 +93,7 @@ const navigate = useNavigate()
           yang dimiliki seseorang sejak dia dilahirkan.
         </p>
         <Button className="border-2 border-blue-500 lg:px-4 lg:py-1 lg:rounded-lg cursor-pointer flex justify-center items-center gap-1">
-          Lihat  <GrFormNextLink className="text-xl"/>
+          Tes Sekarang  <GrFormNextLink className="text-xl"/>
         </Button>
       </div>
       <div data-aos="fade-left" data-aos-duration="2000" className="w-1/2">
